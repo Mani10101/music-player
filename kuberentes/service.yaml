@@ -14,7 +14,7 @@ spec:
 app_configuration:
   s3.release.config:
       s3_bucketname: harekrisna
-      s3_pollingurltimeout: '720'
+      '
   database.release.config: 
       musicplayer_db_assetdbname: M106712
       musicplayer_db_dbcontext_name: MSCDbContext.M106712
